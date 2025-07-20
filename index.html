@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>UNHCR Thailand Fundraising Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    canvas { max-width: 100%; margin-bottom: 30px; }
+    select { margin-bottom: 20px; }
+  </style>
+</head>
+<body>
+  <h2>UNHCR Thailand Fundraising Dashboard (2020–2025)</h2>
+
+  <label for="range">Select Time Range:</label>
+  <select id="range">
+    <option value="30">Last 1 Month</option>
+    <option value="180">Last 6 Months</option>
+    <option value="365">Last 1 Year</option>
+    <option value="1825" selected>Last 5 Years</option>
+  </select>
+
+  <canvas id="donationChart"></canvas>
+  <canvas id="genderChart"></canvas>
+
+  <script>
+    let allData = [];
+
+    function filterByDate(data, days) {
+      const cutoff = new Date();
+      cutoff.setDate(cutoff.getDate() - days);
+      return data.filter(row => new Date(row["Donation Date"]) >= cutoff);
+    }
+
+    function renderCharts(data) {
+      const grouped = {};
+      const genderTotals = { Male: 0, Female: 0, Other: 0 };
+
+      data.forEach(row => {
+        const date = row["Donation Date"].split("T")[0];
+        const amount = parseFloat(row["Donation Amount"]) || 0;
+        grouped[date] = (grouped[date] || 0) + amount;
+
+        const gender = row["Contact1 Gender"] || "Other";
+        genderTotals[gender] = (genderTotals[gender] || 0) + amount;
+      });
+
+      const labels = Object.keys(grouped).sort();
+      const values = labels.map(d => grouped[d]);
+
+      new Chart(document.getElementById("donationChart"), {
+        type: 'line',
+        data: {
+          labels,
+          datasets: [{ label: "Donations (THB)", data: values, borderColor: 'blue' }]
+        }
+      });
+
+      new Chart(document.getElementById("genderChart"), {
+        type: 'pie',
+        data: {
+          labels: Object.keys(genderTotals),
+          datasets: [{
+            label: "By Gender",
+            data: Object.values(genderTotals),
+            backgroundColor: ['#3498db', '#e74c3c', '#95a5a6']
+          }]
+        }
+      });
+    }
+
+    function loadData(days = 1825) {
+      Papa.parse("unhcr_fundraising_dashboard_data.csv", {
+        header: true,
+        download: true,
+        complete: function(results) {
+          allData = results.data;
+          const filtered = filterByDate(allData, days);
+          renderCharts(filtered);
+        }
+      });
+    }
+
+    document.getElementById("range").addEventListener("change", e => {
+      location.reload(); // reload to reset filters
+    });
+
+    loadData();
+  </script>
+</body>
+</html>

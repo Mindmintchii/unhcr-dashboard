@@ -1,0 +1,501 @@
+Donation Date,Donation Amount,Contact1 Gender,Contact1 Province,Contact1 Age,Donation Stage
+2020-01-08,600,Female,Bangkok,76,Closed Won
+2020-01-09,2000,Female,Chaiyaphum,59,Closed Won
+2020-01-22,900,Male,Nakhon Nayok,68,Closed Won
+2020-01-24,7000,Male,Amnat Charoen,24,Closed Won
+2020-01-25,7000,Male,Chiang Rai,76,Closed Won
+2020-01-26,10000,Male,Uttaradit,32,Closed Lost
+2020-01-27,1000,Female,Buriram,59,Closed Won
+2020-02-01,5000,Female,Sukhothai,27,Closed Lost
+2020-02-07,900,Male,Sukhothai,66,Closed Lost
+2020-02-10,2500,Male,Nakhon Ratchasima,33,Closed Lost
+2020-02-11,900,Female,Phatthalung,79,Closed Won
+2020-02-14,600,Male,Nonthaburi,52,Closed Won
+2020-02-14,7000,Male,Ang Thong,56,Closed Won
+2020-02-21,1500,Female,Bangkok,34,Closed Lost
+2020-02-25,3000,Female,Krabi,76,Closed Won
+2020-02-26,900,Male,Songkhla,62,Closed Lost
+2020-02-27,7000,Female,Nakhon Si Thammarat,24,Closed Lost
+2020-02-28,7000,Female,Kalasin,45,Closed Won
+2020-02-29,5000,Male,Nakhon Ratchasima,47,Closed Won
+2020-02-29,2000,Female,Chiang Mai,45,Closed Won
+2020-03-01,1500,Female,Saraburi,75,Closed Lost
+2020-03-17,900,Male,Roi Et,42,Closed Lost
+2020-03-17,5000,Female,Nong Khai,24,Closed Won
+2020-03-21,3000,Male,Phitsanulok,59,Closed Won
+2020-03-28,600,Female,Phetchabun,50,Closed Won
+2020-04-01,900,Male,Phitsanulok,64,Closed Won
+2020-04-03,2500,Female,Ang Thong,51,Closed Lost
+2020-04-03,3000,Male,Nakhon Si Thammarat,18,Closed Lost
+2020-04-05,1000,Female,Tak,25,Closed Lost
+2020-04-06,10000,Female,Phetchaburi,42,Closed Lost
+2020-04-06,1500,Female,Krabi,53,Closed Lost
+2020-04-15,5000,Female,Surat Thani,37,Closed Won
+2020-04-16,5000,Male,Roi Et,61,Closed Won
+2020-04-24,1000,Male,Phichit,31,Closed Lost
+2020-04-24,3000,Female,Pattani,30,Closed Lost
+2020-05-01,1500,Female,Chiang Rai,54,Closed Won
+2020-05-24,900,Female,Chaiyaphum,63,Closed Lost
+2020-06-03,1500,Female,Phetchabun,31,Closed Won
+2020-06-06,3000,Female,Sukhothai,59,Closed Lost
+2020-06-06,5000,Female,Phuket,53,Closed Lost
+2020-06-08,2500,Female,Bangkok,28,Closed Lost
+2020-06-15,5000,Male,Songkhla,39,Closed Lost
+2020-06-15,600,Female,Chai Nat,20,Closed Won
+2020-06-16,2500,Female,Krabi,28,Closed Won
+2020-06-20,900,Male,Chonburi,56,Closed Won
+2020-06-22,2500,Female,Phuket,59,Closed Lost
+2020-06-23,3000,Male,Nakhon Sawan,18,Closed Won
+2020-06-24,10000,Female,Kamphaeng Phet,76,Closed Won
+2020-06-26,600,Male,Nakhon Sawan,19,Closed Won
+2020-06-29,3000,Male,Chumphon,25,Closed Won
+2020-06-30,900,Female,Sakon Nakhon,71,Closed Won
+2020-07-01,900,Male,Surin,20,Closed Won
+2020-07-03,7000,Female,Loei,65,Closed Won
+2020-07-05,7000,Female,Chonburi,49,Closed Won
+2020-07-06,1000,Male,Pattaya,30,Closed Won
+2020-07-10,10000,Male,Phra Nakhon Si Ayutthaya,73,Closed Won
+2020-07-25,900,Male,Nong Khai,61,Closed Won
+2020-07-26,2500,Female,Uthai Thani,71,Closed Won
+2020-07-27,5000,Male,Lampang,41,Closed Won
+2020-08-09,2000,Male,Khon Kaen,73,Closed Lost
+2020-08-13,10000,Male,Nakhon Sawan,36,Closed Won
+2020-08-14,7000,Male,Saraburi,55,Closed Won
+2020-08-28,1500,Female,Phetchabun,26,Closed Won
+2020-08-30,2000,Male,Kanchanaburi,53,Closed Won
+2020-09-01,5000,Male,Nakhon Nayok,77,Closed Won
+2020-09-01,7000,Female,Tak,18,Closed Lost
+2020-09-01,600,Male,Kalasin,31,Closed Won
+2020-09-02,3000,Male,Roi Et,48,Closed Won
+2020-09-06,2500,Female,Kamphaeng Phet,31,Closed Won
+2020-09-10,10000,Male,Nakhon Ratchasima,44,Closed Won
+2020-09-12,3000,Male,Nakhon Pathom,31,Closed Won
+2020-09-14,600,Female,Mae Hong Son,73,Closed Lost
+2020-09-17,2000,Female,Tak,39,Closed Won
+2020-09-18,3000,Female,Nakhon Ratchasima,42,Closed Lost
+2020-09-20,5000,Female,Sukhothai,32,Closed Won
+2020-09-22,5000,Male,Roi Et,23,Closed Won
+2020-09-22,900,Male,Saraburi,21,Closed Won
+2020-09-24,2500,Female,Chaiyaphum,56,Closed Lost
+2020-09-24,1000,Male,Tak,27,Closed Lost
+2020-10-07,3000,Male,Chaiyaphum,29,Closed Won
+2020-10-12,900,Male,Surat Thani,37,Closed Won
+2020-10-13,2500,Male,Sing Buri,56,Closed Won
+2020-10-21,10000,Male,Phichit,47,Closed Lost
+2020-10-24,10000,Male,Songkhla,53,Closed Won
+2020-10-24,3000,Female,Ang Thong,67,Closed Lost
+2020-10-26,600,Female,Phrae,34,Closed Lost
+2020-11-03,7000,Female,Mae Hong Son,21,Closed Won
+2020-11-09,900,Male,Nan,64,Closed Lost
+2020-11-10,600,Male,Nakhon Pathom,76,Closed Won
+2020-11-12,2500,Male,Ratchaburi,32,Closed Won
+2020-11-15,1500,Male,Phra Nakhon Si Ayutthaya,37,Closed Lost
+2020-11-16,600,Female,Phetchabun,57,Closed Won
+2020-11-18,1000,Male,Bangkok,34,Closed Won
+2020-11-19,900,Male,Sing Buri,69,Closed Lost
+2020-11-21,600,Female,Yala,37,Closed Won
+2020-11-22,2500,Female,Phetchaburi,79,Closed Lost
+2020-11-23,2500,Male,Phitsanulok,52,Closed Won
+2020-11-26,900,Female,Trang,27,Closed Won
+2020-11-29,7000,Male,Chaiyaphum,27,Closed Won
+2020-12-02,1500,Female,Tak,69,Closed Won
+2020-12-05,2000,Male,Khon Kaen,30,Closed Lost
+2020-12-11,10000,Male,Sing Buri,39,Closed Won
+2020-12-15,5000,Male,Phra Nakhon Si Ayutthaya,31,Closed Won
+2020-12-17,3000,Female,Pathum Thani,55,Closed Won
+2020-12-22,600,Male,Phetchabun,41,Closed Lost
+2020-12-27,2000,Female,Samut Sakhon,73,Closed Lost
+2020-12-27,1500,Male,Samut Sakhon,64,Closed Won
+2021-01-01,2500,Female,Sing Buri,38,Closed Lost
+2021-01-02,10000,Male,Krabi,41,Closed Won
+2021-01-03,2000,Female,Trang,49,Closed Lost
+2021-01-08,900,Female,Samut Prakan,67,Closed Won
+2021-01-16,900,Male,Lopburi,49,Closed Won
+2021-01-20,600,Male,Mae Hong Son,30,Closed Won
+2021-01-20,3000,Female,Ubon Ratchathani,68,Closed Lost
+2021-01-28,3000,Female,Roi Et,29,Closed Won
+2021-01-30,2500,Male,Bangkok,78,Closed Won
+2021-02-05,900,Female,Bangkok,25,Closed Won
+2021-02-05,5000,Male,Bangkok,56,Closed Won
+2021-02-06,900,Female,Uttaradit,77,Closed Lost
+2021-02-06,3000,Male,Sukhothai,75,Closed Lost
+2021-02-06,600,Female,Bangkok,20,Closed Won
+2021-02-09,7000,Female,Lopburi,18,Closed Lost
+2021-02-17,900,Female,Songkhla,77,Closed Won
+2021-02-17,10000,Female,Nakhon Sawan,79,Closed Won
+2021-02-19,5000,Male,Bangkok,69,Closed Won
+2021-02-23,1500,Male,Bangkok,26,Closed Won
+2021-03-02,7000,Male,Samut Songkhram,24,Closed Won
+2021-03-18,7000,Male,Krabi,37,Closed Won
+2021-03-20,1500,Female,Chiang Rai,78,Closed Lost
+2021-03-28,5000,Male,Yala,48,Closed Lost
+2021-03-31,2000,Male,Tak,75,Closed Won
+2021-04-08,2500,Female,Ratchaburi,69,Closed Won
+2021-04-11,600,Female,Nakhon Phanom,61,Closed Lost
+2021-04-16,7000,Male,Satun,30,Closed Won
+2021-04-28,7000,Male,Ratchaburi,58,Closed Won
+2021-05-16,2000,Male,Samut Songkhram,32,Closed Lost
+2021-05-19,1500,Female,Mukdahan,41,Closed Lost
+2021-05-29,5000,Male,Kanchanaburi,35,Closed Won
+2021-05-30,2000,Male,Surat Thani,29,Closed Won
+2021-06-12,7000,Male,Chonburi,42,Closed Won
+2021-06-15,2000,Female,Nakhon Phanom,67,Closed Won
+2021-06-18,600,Female,Kamphaeng Phet,48,Closed Won
+2021-06-18,1000,Male,Bangkok,45,Closed Lost
+2021-06-25,5000,Male,Chaiyaphum,53,Closed Lost
+2021-06-26,5000,Male,Chaiyaphum,38,Closed Lost
+2021-06-29,3000,Male,Krabi,51,Closed Lost
+2021-07-07,2500,Male,Nakhon Ratchasima,22,Closed Won
+2021-07-17,600,Female,Phang Nga,40,Closed Won
+2021-07-18,600,Male,Ayutthaya,19,Closed Lost
+2021-07-19,600,Male,Sukhothai,54,Closed Won
+2021-07-19,3000,Male,Kalasin,62,Closed Won
+2021-07-23,900,Male,Chiang Rai,66,Closed Lost
+2021-07-25,900,Male,Sukhothai,41,Closed Won
+2021-07-27,900,Male,Bangkok,69,Closed Won
+2021-07-31,10000,Male,Pathum Thani,34,Closed Lost
+2021-08-03,3000,Female,Samut Songkhram,30,Closed Lost
+2021-08-14,5000,Male,Samut Prakan,50,Closed Lost
+2021-08-16,2500,Female,Bangkok,39,Closed Lost
+2021-08-23,2000,Female,Nakhon Si Thammarat,43,Closed Lost
+2021-08-25,2000,Female,Roi Et,62,Closed Lost
+2021-08-29,2500,Male,Phetchabun,80,Closed Won
+2021-08-30,900,Male,Surat Thani,31,Closed Lost
+2021-09-11,600,Female,Sakon Nakhon,41,Closed Won
+2021-09-15,7000,Male,Nakhon Phanom,26,Closed Won
+2021-09-16,3000,Female,Nakhon Si Thammarat,59,Closed Won
+2021-09-21,7000,Female,Rayong,39,Closed Won
+2021-09-26,2000,Female,Chaiyaphum,65,Closed Lost
+2021-10-10,1000,Female,Yasothon,47,Closed Won
+2021-10-12,10000,Male,Chai Nat,42,Closed Won
+2021-10-18,900,Female,Samut Prakan,25,Closed Lost
+2021-10-26,600,Male,Uthai Thani,23,Closed Won
+2021-11-11,7000,Female,Tak,71,Closed Won
+2021-11-16,10000,Female,Sing Buri,25,Closed Won
+2021-11-20,7000,Male,Phitsanulok,60,Closed Won
+2021-11-20,600,Male,Rayong,60,Closed Lost
+2021-11-24,3000,Female,Phetchabun,23,Closed Won
+2021-11-26,2000,Male,Uthai Thani,73,Closed Won
+2021-11-27,10000,Female,Loei,73,Closed Won
+2021-11-29,5000,Male,Samut Songkhram,38,Closed Won
+2021-11-30,1500,Male,Saraburi,39,Closed Won
+2021-12-01,1000,Female,Phrae,42,Closed Won
+2021-12-01,7000,Female,Nakhon Nayok,26,Closed Lost
+2021-12-04,1000,Male,Bangkok,39,Closed Lost
+2021-12-07,900,Male,Samut Songkhram,19,Closed Won
+2021-12-10,2500,Male,Samut Prakan,23,Closed Won
+2021-12-14,2500,Male,Kamphaeng Phet,51,Closed Lost
+2021-12-17,5000,Male,Chiang Rai,68,Closed Won
+2021-12-21,1500,Male,Phayao,19,Closed Won
+2022-01-04,600,Male,Saraburi,24,Closed Lost
+2022-01-06,7000,Female,Mae Hong Son,47,Closed Lost
+2022-01-23,600,Male,Samut Prakan,53,Closed Won
+2022-01-24,900,Female,Ranong,64,Closed Won
+2022-01-29,600,Female,Kalasin,74,Closed Lost
+2022-02-03,900,Male,Nakhon Si Thammarat,35,Closed Lost
+2022-02-07,900,Female,Phra Nakhon Si Ayutthaya,34,Closed Lost
+2022-02-09,2500,Male,Amnat Charoen,59,Closed Lost
+2022-02-14,2000,Male,Prachuap Khiri Khan,35,Closed Won
+2022-02-15,3000,Female,Pattaya,20,Closed Lost
+2022-02-19,1500,Female,Bangkok,79,Closed Won
+2022-02-24,600,Female,Pattani,78,Closed Lost
+2022-02-25,2500,Female,Roi Et,72,Closed Won
+2022-02-27,5000,Male,Bangkok,59,Closed Won
+2022-03-01,1000,Female,Phichit,77,Closed Lost
+2022-03-13,900,Male,Chiang Rai,31,Closed Won
+2022-03-13,1500,Female,Bangkok,50,Closed Won
+2022-03-15,3000,Female,Nakhon Phanom,63,Closed Won
+2022-03-19,1000,Male,Mukdahan,21,Closed Won
+2022-03-20,7000,Male,Phitsanulok,38,Closed Won
+2022-03-22,10000,Male,Ratchaburi,34,Closed Won
+2022-03-26,600,Male,Ratchaburi,74,Closed Won
+2022-04-09,7000,Male,Khon Kaen,47,Closed Won
+2022-04-10,10000,Male,Kamphaeng Phet,77,Closed Won
+2022-04-14,900,Male,Phetchabun,29,Closed Won
+2022-04-18,5000,Female,Sing Buri,51,Closed Won
+2022-04-25,2000,Female,Phitsanulok,63,Closed Won
+2022-04-26,2500,Female,Uthai Thani,68,Closed Lost
+2022-05-01,3000,Male,Bangkok,76,Closed Lost
+2022-05-02,5000,Male,Phitsanulok,34,Closed Won
+2022-05-06,2000,Male,Bangkok,57,Closed Lost
+2022-05-10,5000,Male,Tak,29,Closed Won
+2022-05-12,1000,Male,Nakhon Nayok,79,Closed Lost
+2022-05-13,1500,Female,Songkhla,25,Closed Lost
+2022-05-13,10000,Male,Saraburi,67,Closed Won
+2022-05-14,600,Male,Kanchanaburi,63,Closed Lost
+2022-05-16,3000,Female,Satun,68,Closed Won
+2022-05-16,900,Female,Bangkok,46,Closed Lost
+2022-05-17,5000,Male,Nakhon Pathom,78,Closed Lost
+2022-05-21,1000,Male,Nan,65,Closed Won
+2022-05-26,5000,Female,Phra Nakhon Si Ayutthaya,33,Closed Lost
+2022-05-29,10000,Male,Tak,37,Closed Won
+2022-06-06,600,Female,Surat Thani,46,Closed Lost
+2022-06-08,2000,Male,Bangkok,21,Closed Won
+2022-06-10,5000,Female,Uttaradit,58,Closed Lost
+2022-06-12,7000,Male,Sukhothai,53,Closed Won
+2022-06-24,900,Female,Trang,34,Closed Lost
+2022-06-25,1000,Male,Satun,63,Closed Lost
+2022-06-26,5000,Female,Nakhon Pathom,25,Closed Lost
+2022-06-29,2000,Female,Nakhon Si Thammarat,52,Closed Lost
+2022-06-29,900,Male,Mukdahan,31,Closed Won
+2022-07-01,2000,Female,Saraburi,51,Closed Won
+2022-07-05,2500,Female,Nakhon Ratchasima,44,Closed Won
+2022-07-10,3000,Female,Nong Khai,46,Closed Won
+2022-07-10,5000,Female,Yala,30,Closed Won
+2022-07-12,1000,Male,Loei,68,Closed Won
+2022-07-20,1500,Female,Chaiyaphum,19,Closed Won
+2022-07-23,900,Female,Tak,26,Closed Won
+2022-07-26,600,Female,Lopburi,30,Closed Lost
+2022-07-27,1000,Male,Pattani,60,Closed Won
+2022-08-03,10000,Female,Bangkok,58,Closed Won
+2022-08-06,2500,Female,Phichit,76,Closed Lost
+2022-08-09,2000,Male,Phetchaburi,79,Closed Lost
+2022-08-09,7000,Male,Lampang,40,Closed Won
+2022-08-15,2000,Male,Chonburi,34,Closed Won
+2022-08-24,900,Male,Bangkok,42,Closed Lost
+2022-09-03,900,Female,Maha Sarakham,31,Closed Lost
+2022-09-05,1000,Female,Surat Thani,18,Closed Lost
+2022-09-09,2000,Male,Yasothon,26,Closed Won
+2022-09-10,7000,Male,Lopburi,49,Closed Won
+2022-09-13,2000,Male,Bangkok,31,Closed Won
+2022-09-13,1500,Male,Roi Et,38,Closed Won
+2022-09-29,5000,Female,Phetchabun,52,Closed Won
+2022-10-04,1500,Male,Lamphun,41,Closed Won
+2022-10-05,3000,Female,Surin,54,Closed Won
+2022-10-07,7000,Female,Pattaya,21,Closed Lost
+2022-10-09,1000,Female,Nakhon Sawan,62,Closed Lost
+2022-10-17,900,Female,Satun,33,Closed Lost
+2022-10-19,2500,Male,Chiang Mai,76,Closed Won
+2022-10-24,1000,Female,Nakhon Sawan,66,Closed Won
+2022-10-27,10000,Male,Chainat,41,Closed Won
+2022-10-30,1500,Female,Ratchaburi,71,Closed Won
+2022-11-03,7000,Female,Phuket,42,Closed Won
+2022-11-08,2500,Female,Nakhon Phanom,56,Closed Lost
+2022-11-10,600,Female,Uthai Thani,39,Closed Lost
+2022-11-12,1500,Female,Yasothon,28,Closed Lost
+2022-11-15,1500,Female,Lopburi,23,Closed Lost
+2022-11-20,5000,Female,Amnat Charoen,47,Closed Won
+2022-12-01,2500,Female,Uthai Thani,62,Closed Won
+2022-12-02,1000,Male,Surat Thani,27,Closed Lost
+2022-12-05,900,Male,Bangkok,63,Closed Won
+2022-12-08,900,Female,Krabi,53,Closed Lost
+2022-12-09,600,Male,Kalasin,26,Closed Lost
+2022-12-10,2000,Female,Kamphaeng Phet,48,Closed Won
+2022-12-11,600,Female,Bangkok,44,Closed Won
+2022-12-18,2500,Female,Ubon Ratchathani,40,Closed Lost
+2022-12-21,7000,Female,Uttaradit,50,Closed Lost
+2022-12-25,10000,Male,Roi Et,43,Closed Won
+2022-12-29,900,Male,Bangkok,77,Closed Won
+2023-01-02,10000,Male,Surin,62,Closed Won
+2023-01-02,10000,Female,Surat Thani,56,Closed Won
+2023-01-02,1000,Female,Uthai Thani,40,Closed Won
+2023-01-22,2500,Female,Phetchabun,49,Closed Won
+2023-01-23,3000,Male,Pattani,57,Closed Won
+2023-01-25,2000,Male,Kalasin,73,Closed Won
+2023-01-28,900,Female,Bangkok,43,Closed Lost
+2023-02-08,3000,Female,Bangkok,79,Closed Lost
+2023-02-09,3000,Female,Uttaradit,19,Closed Won
+2023-02-15,10000,Male,Rayong,66,Closed Won
+2023-02-25,5000,Female,Krabi,43,Closed Lost
+2023-02-25,10000,Male,Phetchaburi,24,Closed Won
+2023-02-27,10000,Male,Nakhon Nayok,25,Closed Won
+2023-03-10,2500,Male,Sakon Nakhon,69,Closed Won
+2023-03-14,5000,Male,Phra Nakhon Si Ayutthaya,34,Closed Won
+2023-03-17,900,Male,Kamphaeng Phet,34,Closed Lost
+2023-03-18,2500,Female,Nakhon Sawan,33,Closed Won
+2023-04-01,1500,Female,Saraburi,45,Closed Won
+2023-04-03,600,Male,Bangkok,68,Closed Won
+2023-04-10,600,Male,Khon Kaen,76,Closed Won
+2023-04-15,3000,Male,Kalasin,42,Closed Lost
+2023-04-16,3000,Female,Kalasin,57,Closed Lost
+2023-04-26,1500,Female,Uttaradit,23,Closed Lost
+2023-05-02,900,Female,Bangkok,74,Closed Won
+2023-05-07,2500,Female,Samut Prakan,67,Closed Won
+2023-05-08,7000,Male,Pathum Thani,25,Closed Won
+2023-05-29,900,Female,Lopburi,38,Closed Lost
+2023-05-30,7000,Female,Bangkok,53,Closed Won
+2023-06-01,3000,Male,Phang Nga,66,Closed Won
+2023-06-02,10000,Male,Bangkok,36,Closed Won
+2023-06-04,900,Male,Uttaradit,74,Closed Lost
+2023-06-19,2500,Male,Kalasin,71,Closed Lost
+2023-06-29,2000,Female,Bangkok,39,Closed Won
+2023-07-02,7000,Male,Trang,33,Closed Won
+2023-07-03,7000,Male,Phitsanulok,56,Closed Lost
+2023-07-09,3000,Female,Nonthaburi,64,Closed Won
+2023-07-12,2000,Female,Pattaya,68,Closed Lost
+2023-07-14,900,Female,Phetchabun,21,Closed Won
+2023-07-20,7000,Male,Lopburi,39,Closed Won
+2023-07-28,10000,Female,Krabi,73,Closed Won
+2023-07-31,900,Male,Saraburi,32,Closed Won
+2023-08-01,3000,Male,Bangkok,26,Closed Won
+2023-08-03,10000,Female,Bangkok,65,Closed Lost
+2023-08-14,1500,Female,Bangkok,25,Closed Won
+2023-08-16,1500,Male,Hua Hin,78,Closed Lost
+2023-08-19,1000,Male,Bangkok,55,Closed Won
+2023-08-31,1000,Male,Surin,68,Closed Won
+2023-09-12,7000,Female,Hua Hin,60,Closed Won
+2023-09-16,1500,Male,Bangkok,29,Closed Won
+2023-09-20,600,Female,Nong Khai,55,Closed Won
+2023-09-23,1000,Male,Songkhla,69,Closed Lost
+2023-09-25,1500,Male,Nakhon Si Thammarat,39,Closed Lost
+2023-09-28,10000,Female,Surat Thani,42,Closed Won
+2023-10-02,3000,Male,Bangkok,33,Closed Lost
+2023-10-10,600,Female,Bangkok,29,Closed Won
+2023-10-11,5000,Female,Phitsanulok,53,Closed Won
+2023-10-13,3000,Female,Khon Kaen,26,Closed Won
+2023-10-20,2500,Female,Narathiwat,75,Closed Won
+2023-10-22,2000,Female,Uttaradit,33,Closed Won
+2023-10-24,7000,Male,Bangkok,26,Closed Lost
+2023-10-26,3000,Female,Krabi,56,Closed Won
+2023-11-06,3000,Female,Lopburi,29,Closed Lost
+2023-11-17,2500,Female,Chiang Rai,47,Closed Lost
+2023-11-17,900,Female,Narathiwat,71,Closed Won
+2023-11-27,3000,Female,Nakhon Sawan,73,Closed Won
+2023-11-27,5000,Female,Loei,75,Closed Lost
+2023-11-30,10000,Male,Phayao,79,Closed Won
+2023-12-01,1000,Female,Nakhon Sawan,75,Closed Lost
+2023-12-09,600,Female,Phichit,40,Closed Won
+2023-12-15,5000,Female,Udon Thani,49,Closed Won
+2023-12-16,2500,Female,Nan,31,Closed Lost
+2023-12-21,5000,Female,Sukhothai,55,Closed Won
+2023-12-24,10000,Female,Ubon Ratchathani,37,Closed Won
+2023-12-26,5000,Female,Bangkok,72,Closed Lost
+2024-01-07,3000,Male,Ang Thong,54,Closed Won
+2024-01-07,2000,Male,Ang Thong,65,Closed Lost
+2024-01-11,2000,Female,Phetchabun,33,Closed Lost
+2024-01-11,2000,Male,Sukhothai,66,Closed Lost
+2024-01-22,1000,Male,Tak,52,Closed Lost
+2024-01-25,1500,Male,Chumphon,77,Closed Won
+2024-01-30,3000,Male,Nakhon Sawan,34,Closed Won
+2024-02-03,1500,Male,Uttaradit,48,Closed Won
+2024-02-11,2500,Male,Songkhla,44,Closed Lost
+2024-02-19,1000,Female,Tak,24,Closed Won
+2024-02-20,10000,Male,Bangkok,61,Closed Lost
+2024-02-23,600,Female,Nakhon Sawan,74,Closed Won
+2024-02-24,10000,Female,Hua Hin,58,Closed Lost
+2024-03-05,5000,Female,Pathum Thani,48,Closed Won
+2024-03-08,2500,Female,Nakhon Si Thammarat,32,Closed Won
+2024-03-19,2500,Male,Hua Hin,49,Closed Won
+2024-03-21,7000,Female,Nakhon Pathom,34,Closed Won
+2024-03-26,600,Male,Phichit,56,Closed Won
+2024-04-07,5000,Female,Sukhothai,48,Closed Won
+2024-04-11,10000,Male,Sukhothai,75,Closed Lost
+2024-04-13,10000,Female,Yasothon,47,Closed Lost
+2024-04-19,1000,Female,Phichit,66,Closed Won
+2024-04-22,2500,Male,Uttaradit,23,Closed Lost
+2024-04-25,5000,Female,Phichit,68,Closed Won
+2024-04-30,7000,Female,Bangkok,68,Closed Won
+2024-05-01,2500,Male,Nonthaburi,37,Closed Lost
+2024-05-01,1500,Female,Ubon Ratchathani,77,Closed Won
+2024-05-01,600,Male,Bangkok,56,Closed Won
+2024-05-04,3000,Female,Khon Kaen,44,Closed Won
+2024-05-06,1000,Female,Chiang Rai,51,Closed Won
+2024-05-07,2500,Female,Sing Buri,23,Closed Lost
+2024-05-09,3000,Male,Phrae,32,Closed Won
+2024-05-09,600,Female,Phetchabun,42,Closed Won
+2024-05-13,5000,Female,Samut Sakhon,60,Closed Won
+2024-05-15,600,Male,Nan,29,Closed Won
+2024-05-18,10000,Male,Sing Buri,51,Closed Won
+2024-05-18,7000,Male,Trang,68,Closed Won
+2024-05-19,5000,Male,Phichit,35,Closed Won
+2024-05-22,7000,Male,Phuket,71,Closed Won
+2024-05-28,3000,Female,Rayong,33,Closed Won
+2024-05-29,2500,Male,Phayao,70,Closed Lost
+2024-06-01,1000,Female,Tak,78,Closed Won
+2024-06-10,3000,Female,Bangkok,58,Closed Lost
+2024-06-11,900,Male,Satun,21,Closed Won
+2024-06-11,900,Female,Sing Buri,37,Closed Lost
+2024-06-18,2000,Male,Tak,29,Closed Won
+2024-06-19,600,Female,Nakhon Si Thammarat,54,Closed Won
+2024-06-22,1500,Male,Samut Songkhram,22,Closed Won
+2024-06-28,5000,Female,Phatthalung,73,Closed Won
+2024-06-30,1000,Female,Sing Buri,59,Closed Won
+2024-07-01,5000,Female,Nakhon Nayok,24,Closed Won
+2024-07-04,7000,Female,Surat Thani,40,Closed Lost
+2024-07-08,3000,Female,Sukhothai,66,Closed Lost
+2024-07-17,1500,Male,Phetchabun,53,Closed Won
+2024-07-20,10000,Male,Tak,74,Closed Won
+2024-07-27,600,Male,Phrae,43,Closed Won
+2024-08-12,900,Female,Kamphaeng Phet,48,Closed Lost
+2024-08-13,5000,Male,Chiang Rai,57,Closed Won
+2024-08-16,10000,Female,Kalasin,50,Closed Lost
+2024-08-16,10000,Female,Nakhon Sawan,19,Closed Won
+2024-08-19,7000,Female,Samut Songkhram,37,Closed Lost
+2024-08-24,1000,Female,Samut Prakan,66,Closed Won
+2024-08-25,2000,Male,Bangkok,39,Closed Won
+2024-08-27,1000,Male,Yasothon,37,Closed Won
+2024-08-28,2500,Female,Nakhon Ratchasima,54,Closed Lost
+2024-08-28,2500,Male,Phichit,43,Closed Lost
+2024-08-29,2500,Male,Sakon Nakhon,62,Closed Lost
+2024-08-31,1500,Female,Khon Kaen,26,Closed Won
+2024-09-09,1000,Female,Lopburi,54,Closed Won
+2024-09-14,10000,Male,Mae Hong Son,57,Closed Lost
+2024-09-17,2000,Female,Nakhon Phanom,69,Closed Lost
+2024-09-19,900,Male,Pattaya,44,Closed Won
+2024-09-25,5000,Female,Kanchanaburi,56,Closed Lost
+2024-10-06,10000,Male,Phetchaburi,73,Closed Won
+2024-10-08,5000,Male,Krabi,33,Closed Won
+2024-10-08,2500,Female,Tak,75,Closed Won
+2024-10-11,1000,Female,Prachuap Khiri Khan,22,Closed Lost
+2024-10-13,5000,Female,Samut Songkhram,54,Closed Lost
+2024-10-14,3000,Male,Prachuap Khiri Khan,25,Closed Won
+2024-10-21,10000,Female,Phitsanulok,54,Closed Won
+2024-10-31,900,Female,Maha Sarakham,75,Closed Lost
+2024-11-02,900,Female,Bangkok,68,Closed Won
+2024-11-04,2000,Female,Chonburi,52,Closed Lost
+2024-11-14,1500,Female,Bangkok,74,Closed Won
+2024-11-19,600,Female,Pattani,48,Closed Won
+2024-11-20,3000,Male,Chainat,25,Closed Lost
+2024-11-28,10000,Male,Uttaradit,49,Closed Won
+2024-12-01,1000,Male,Narathiwat,42,Closed Won
+2024-12-21,7000,Female,Mukdahan,29,Closed Lost
+2025-01-02,1000,Female,Phra Nakhon Si Ayutthaya,57,Closed Lost
+2025-01-09,5000,Male,Phra Nakhon Si Ayutthaya,33,Closed Lost
+2025-01-09,7000,Female,Surin,33,Closed Lost
+2025-01-12,5000,Female,Bangkok,74,Closed Won
+2025-01-17,5000,Female,Bangkok,71,Closed Won
+2025-01-18,1000,Male,Bangkok,39,Closed Won
+2025-01-23,1000,Female,Phetchabun,47,Closed Won
+2025-01-26,1000,Male,Krabi,51,Closed Lost
+2025-01-28,5000,Female,Phichit,31,Closed Won
+2025-01-29,1000,Male,Bangkok,26,Closed Won
+2025-02-03,2500,Female,Chaiyaphum,36,Closed Won
+2025-02-08,900,Female,Uthai Thani,67,Closed Won
+2025-02-13,600,Female,Chainat,26,Closed Won
+2025-02-23,2000,Female,Lampang,21,Closed Lost
+2025-03-02,600,Female,Ratchaburi,18,Closed Lost
+2025-03-03,1500,Female,Phang Nga,73,Closed Lost
+2025-03-06,2000,Female,Samut Sakhon,79,Closed Won
+2025-03-15,3000,Male,Phitsanulok,23,Closed Lost
+2025-03-20,5000,Female,Phichit,75,Closed Won
+2025-03-24,1500,Female,Phayao,50,Closed Won
+2025-03-26,3000,Male,Yasothon,37,Closed Won
+2025-03-31,5000,Female,Chiang Rai,37,Closed Lost
+2025-04-01,600,Male,Chiang Rai,28,Closed Won
+2025-04-03,2000,Male,Phra Nakhon Si Ayutthaya,68,Closed Won
+2025-04-05,1000,Male,Maha Sarakham,47,Closed Won
+2025-04-07,1000,Female,Bangkok,73,Closed Won
+2025-04-07,2000,Male,Yasothon,36,Closed Won
+2025-04-11,5000,Male,Surat Thani,50,Closed Lost
+2025-04-14,1000,Female,Trang,30,Closed Lost
+2025-04-17,5000,Female,Satun,75,Closed Won
+2025-04-28,1500,Female,Prachuap Khiri Khan,69,Closed Lost
+2025-05-02,2000,Male,Sukhothai,25,Closed Won
+2025-05-07,5000,Male,Nakhon Nayok,53,Closed Won
+2025-05-08,5000,Male,Pattani,78,Closed Won
+2025-05-08,1500,Male,Kanchanaburi,27,Closed Lost
+2025-05-09,1000,Female,Pathum Thani,75,Closed Won
+2025-05-16,900,Female,Phra Nakhon Si Ayutthaya,19,Closed Won
+2025-05-30,7000,Male,Sing Buri,67,Closed Lost
+2025-06-14,1000,Male,Buriram,74,Closed Won
+2025-06-17,1000,Female,Kanchanaburi,50,Closed Won
+2025-06-17,1000,Female,Surat Thani,36,Closed Won
+2025-06-23,600,Male,Lamphun,19,Closed Won
+2025-06-27,600,Male,Nakhon Nayok,38,Closed Lost
+2025-06-29,5000,Female,Bangkok,37,Closed Won
+2025-07-26,1000,Male,Phetchabun,18,Pledged
+2025-07-27,10000,Male,Krabi,19,Pledged
+2025-07-28,3000,Female,Prachuap Khiri Khan,49,Pledged
+2025-07-29,2500,Male,Nonthaburi,54,Pledged
+2025-07-30,10000,Female,Sukhothai,66,Pledged
+2025-07-31,3000,Female,Phuket,43,Pledged
